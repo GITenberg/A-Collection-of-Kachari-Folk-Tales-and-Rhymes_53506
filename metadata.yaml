@@ -1,0 +1,29 @@
+_repo: A-Collection-of-Kachari-Folk-Tales-and-Rhymes_53506
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, J. D. (James Drummond)
+    alias: Anderson, James Drummond
+    birthdate: 1852
+    deathdate: 1920
+    gutenberg_agent_id: '47404'
+    url: http://www.gutenberg.org/2009/agents/47404
+description: ''
+gutenberg_bookshelf: Folklore
+gutenberg_issued: '2016-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53506'
+  lccn: 08017055
+language:
+- brx
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kachari (Indic people) -- Folklore'
+- !lcc 'PL'
+- GITenberg
+title: A Collection of Kachári Folk-Tales and Rhymes
+url: http://www.gutenberg.org/ebooks/53506
