@@ -1,5 +1,8 @@
 _repo: A-Collection-of-Kachari-Folk-Tales-and-Rhymes_53506
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53506-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Anderson, J. D. (James Drummond)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47404'
     url: http://www.gutenberg.org/2009/agents/47404
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53506#A-Collection-of-Kachari-Folk-Tales-and-Rhymes
 gutenberg_bookshelf: Folklore
 gutenberg_issued: '2016-11-11'
 gutenberg_type: Text
